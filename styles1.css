@@ -1,0 +1,33 @@
+body{
+	 background-color: khaki;
+	 background-size: 30px;
+	 padding-left: 30px;
+}
+
+	#presentation {
+		line-height: 30px;
+		margin: 20px 50px 50px px;
+		padding: 30px;
+		border: 2px;
+		
+
+	}
+	/*.img{
+		float: right;
+		padding-bottom: 50px;
+		width: 10;
+	    height: 10;
+
+	/*span.imageGauche{
+        margin-left: 20px;
+		margin-right:50px;
+		position:absolute;
+		top:27px*/
+	}
+	span.imag {
+		float: ;
+		padding-bottom: 100px;
+        right: 500px;
+		top: 50px;
+		position: absolute;
+	}
